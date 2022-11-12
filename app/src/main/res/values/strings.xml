@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My GPS</string>
+
+    <string name="dialog_text_title">Habilitar GPS?</string>
+    <string name="dialog_text_description">Esta aplicación necesita hacer uso de sus coordenadas,
+        desea habilitar las mismas.</string>
+    <string name="dialog_button_accept">Habilitar</string>
+    <string name="dialog_button_deny">Denegar</string>
+    <string name="btn_coordinates">Este boton obtiene coordenadas en APP</string>
+    <string name="txt_hobby">El hobby</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="btn_location">Localizacion</string>
+    <string name="btn_normal">Normal</string>
+    <string name="btn_hybrid">Hibrido</string>
+    <string name="btn_satellite">Satelital</string>
+    <string name="btn_terrain">Terreno</string>
+    <string name="btn_none">Ninguno</string>
+</resources>
